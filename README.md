@@ -1,6 +1,10 @@
 ### Hi there 👋
+### Im a developing developer. Im interested in gamedev. I’m currently studying at AGH Kraków.
 
-<!--
+### Contact
+- Discord vaderkillyou#2059
+- e-mail kacper_poznanski@wp.pl
+
 **k-poznanski/k-poznanski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
