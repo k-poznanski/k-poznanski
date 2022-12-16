@@ -3,6 +3,7 @@
 
 ### Contact
 - page https://k-poznanski.github.io
+- fork: https://github.com/k-poznanski/PlatformGame
 - Discord vaderkillyou#2059
 - e-mail kacper_poznanski@wp.pl
 
