@@ -4,6 +4,5 @@
 ### Contact
 - page https://k-poznanski.github.io
 - Working on: https://github.com/UnknownCmds/GravNeill and https://github.com/UnknownCmds/GravNeillUERepo
-- Discord vaderkillyou#2059
-- e-mail pkacpi@gmail.com
+- email: kacper.poznanski@yahoo.com
 
